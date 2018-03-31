@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1033640085224",
+    "firebase_url": "https://vedangsrmapp1.firebaseio.com",
+    "project_id": "vedangsrmapp1",
+    "storage_bucket": "vedangsrmapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033640085224:android:e2ed92bfdc112b38",
+        "android_client_info": {
+          "package_name": "com.vedangbhardwaj.vedangsrmwe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033640085224-4lqpqprqhodstdo3e2vrp0pmebk8keuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vedangbhardwaj.vedangsrmwe",
+            "certificate_hash": "ee9d9911c1396abb5bf857d048f3f8a03a8946ee"
+          }
+        },
+        {
+          "client_id": "1033640085224-c0kjr1k506f224uc1jiv3heavt4lv4b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAorbSG8jEObS6TSgNYahR6vGnsNQzZHWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033640085224-c0kjr1k506f224uc1jiv3heavt4lv4b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
