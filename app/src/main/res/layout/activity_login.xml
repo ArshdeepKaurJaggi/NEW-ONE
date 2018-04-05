@@ -7,7 +7,7 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:paddingTop="16dp"
-    android:background="@drawable/bg"
+    android:background="@color/bluedark"
     tools:context="com.vedangbhardwaj.vedangsrmwe.LoginActivity">
 
     <TextView
@@ -18,7 +18,7 @@
         android:layout_alignStart="@+id/txtEmailLogin"
         android:text="Email Address:"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textColor="@android:color/black"
+        android:textColor="@color/colorAccent"
         android:textStyle="bold" />
 
     <EditText
@@ -36,7 +36,7 @@
         android:layout_alignStart="@+id/textView"
         android:text="Password"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textColor="@android:color/black"
+        android:textColor="@color/colorAccent"
         android:textStyle="bold" />
 
     <EditText

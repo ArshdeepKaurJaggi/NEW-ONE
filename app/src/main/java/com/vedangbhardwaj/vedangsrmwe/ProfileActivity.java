@@ -11,7 +11,7 @@ public class ProfileActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_profile);
-        tvEmail = (TextView) findViewById(R.id.tvEmailProfile);
-        tvEmail.setText(getIntent().getExtras().getString("Email"));
+       // tvEmail = (TextView) findViewById(R.id.tvEmailProfile);
+       // tvEmail.setText(getIntent().getExtras().getString("Email"));
     }
 }

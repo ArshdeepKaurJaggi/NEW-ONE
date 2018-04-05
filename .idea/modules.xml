@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Vedang-Srmwerepo.iml" filepath="$PROJECT_DIR$/Vedang-Srmwerepo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/vedangSRMwe.iml" filepath="$PROJECT_DIR$/vedangSRMwe.iml" />
     </modules>
   </component>
 </project>
